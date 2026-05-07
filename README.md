@@ -11,5 +11,8 @@ The projects in this folder cover various methods to create, delete and access f
 The projects in this folder cover various methods to visualize and analyze data using the Python language. Methods include using pandas to create data frames from csv files, as well as using pandas functions, using numpy methods, creating classes and functions, and iterrating through data frames, dictionaries and lists.
 
 ## Data Mine Spring 2025 Seminar
-The projects in this folder contain methods to scrape data off the internet using the Python library Beautiful Soup. It also includes how to store the data in data frames and then be visualized and analyzed using some of the various Python libraries such as pandas, matplotlib and numpy. 
+The projects in this folder contain methods to scrape data off the internet using the Python library Beautiful Soup. It also includes how to store the data in data frames and then be visualized and analyzed using some of the various Python libraries such as Pandas, Matplotlib and Numpy. 
+
+## Data Mine Spring 2026 Seminar
+The projects within this folder cover topics relating to machine learning models such as Multi-Layer Perceptrons, Convolutional Neural Networks, Linear Mixed Models and Lasso and Ridge Regressions. It also covered many data modeling methods such as geospatial analysis, survival analysis, dynamic time warping, and fast fourier transform analysis. Further, we covered topics including MLOps, Containers and RESTful API's, and Cross Validation. These projects were completing using Python using various packages including Pandas, Matplotlib, PyTorch, Geopandas, Numpy, and Scikit Learn.
  
